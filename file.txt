@@ -1,4 +1,2 @@
 "My first line" 
-"london is the capital of GB" 
-"Moscow is capital of RF" 
 Paris is capital of France 
